@@ -36,15 +36,6 @@ Start the production server:
 npm run start
 ```
 
-## Tests
-
-Run the test script:
-
-```bash
-npm test
-```
-
 ## Notes
 
 - This project uses Next.js with React and TypeScript.
-- The current test command executes `node logic.test.js`.
